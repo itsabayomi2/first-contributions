@@ -1,5 +1,5 @@
 # Contributors
-- [Abayomi] (itsabayomi2)
+- [itsabayomi2](https://github.com/itsabayomi2)
 - [Ayushman] (https://github.com/ayushman1210) learning to deep dive into the open source world 
 - [Purwatsate](https://github.com/Purwatsate) Thar Li Swa Bar
 - [Sami Ahmed] (https://github.com/SamiA1995) Hello
